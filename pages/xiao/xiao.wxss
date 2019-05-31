@@ -1,0 +1,5 @@
+/* pages/xiao/xiao.wxss */
+.qing{
+  width: 260rpx;
+  height: 100rpx;
+}

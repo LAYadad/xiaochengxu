@@ -1,0 +1,4 @@
+<!--pages/xiao/xiao.wxml-->
+<view>
+  <image class='qing' src='http://www.xtep.com/images/logo.png'></image>
+</view>
